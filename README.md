@@ -1,2 +1,2 @@
-# ProjectB7Web
-Meus projetos do curso b7web fullstack
+# CartPizzasJs
+projeto de um restaurante de pizzas.
